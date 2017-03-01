@@ -1,0 +1,1 @@
+异步写数据到文本中data to appenddata to append
